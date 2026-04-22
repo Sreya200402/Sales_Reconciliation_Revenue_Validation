@@ -54,7 +54,11 @@ The interactive dashboard includes:
 - KPI monitoring (Total Revenue, Mismatch %, Orders)  
 - Mismatch analysis by state and order status  
 - Customer contribution insights  
-- Risk-based conditional formatting  
+- Risk-based conditional formatting
+
+  ## 📄 Dashboard (PDF Version)
+
+[View Dashboard (Interactive PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sreya200402/Sales_Reconciliation_Revenue_Validation/main/Dashboard/dashboard.pdf)
 
 ---
 
