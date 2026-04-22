@@ -22,8 +22,33 @@ This project addresses the challenge of identifying and analyzing revenue mismat
 
 ---
 
-## 📊 Dashboard Overview
-![Dashboard](dashboard/dashboard.png)
+# 📊 Dashboard Pages
+
+## 🏠 Home
+![Home](Dashboard/pictures/Home.png)
+
+---
+
+## 📊 Overview
+![Overview](Dashboard/pictures/Overview.png)
+
+---
+
+## 🔍 Mismatch Analysis
+![Mismatch Analysis](Dashboard/pictures/Mismatch%20analysis.png)
+
+---
+
+## 🌍 Business Insights
+![Business Insights](Dashboard/pictures/Business%20insight.png)
+
+---
+
+## 🚨 Critical Issues
+![Critical Issues](Dashboard/pictures/Critical%20Isues.png)
+
+---
+
 
 The interactive dashboard includes:
 - KPI monitoring (Total Revenue, Mismatch %, Orders)  
